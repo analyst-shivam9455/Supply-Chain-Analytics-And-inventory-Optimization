@@ -48,11 +48,10 @@ The project uses supply chain data consisting of:
 - Total Revenue
 - Total Profit
 - Total Orders
-- On-Time Delivery Rate
 - Inventory Turnover Ratio
 - Products at Stockout Risk
 - Products Needing Reorder
-- Total Inventory Value
+
 
 ---
 
@@ -78,22 +77,32 @@ The project uses supply chain data consisting of:
 
 ## 📊 Dashboard Overview
 
-The Power BI dashboard consists of 3 main pages:
+The Power BI dashboard consists of 5 main pages:
 
 ### 1. Supply Chain Overview
 - Revenue trends
 - Top products
 - Regional demand
 
-### 2. Logistics Performance
-- Shipment delays
-- On-time delivery rate
-- Shipping mode efficiency
-
-### 3. Inventory Optimization
+### 2. Inventory Optimization
 - Inventory vs demand
 - Stockout risk
 - Slow-moving products
+
+### 3. Stock out Risk and reorder planning
+- Products needing reorder
+- Stockout risk level
+- Days untill stockout
+
+### 4. Fulfillment & Logistics Performance
+- Shipment delays
+- fulfillment Status distribution
+- Shipping mode efficiency
+
+### 5. Profit and Cost Optimization
+- Profit Margin v/s Inventory
+- Profit v/s Inventory
+- Top and Bottom profitable products
 
 ---
 
@@ -138,7 +147,6 @@ The Power BI dashboard consists of 3 main pages:
 ## 👤 Author
 
 Shivam Kasaudhan  
-
 Data Analyst
 
 ---
