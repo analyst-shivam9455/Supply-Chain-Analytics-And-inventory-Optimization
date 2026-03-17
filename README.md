@@ -8,6 +8,9 @@ The goal is to identify key business problems such as stockouts, overstocking, s
 
 ---
 
+**Dashboard Link** - https://app.powerbi.com/view?r=eyJrIjoiMTMwMDRiNjQtZjRlOC00NzM4LTgyMGQtYjZkNDg4ZTY2ZTQ3IiwidCI6ImQ5OTRjYjA2LTljOTYtNGUxMC05YTQ2LTg4ZGM1OTEyNjc0ZCIsImMiOjZ9
+---
+
 ## 🎯 Business Objectives
 
 - Identify products at **high stockout risk**
